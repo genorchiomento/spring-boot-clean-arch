@@ -36,7 +36,7 @@ git clone https://github.com/genorchiomento/spring-boot-clean-arch
 - Executar:
 
 ```
-java -jar ./target/spring-boot-clean-arch-0.0.1-SNAPSHOT.jar
+java -jar ./infrastructure/target/infrastructure-0.0.1-SNAPSHOT.jar
 ```
 
 - Testar
