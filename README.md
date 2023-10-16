@@ -24,7 +24,7 @@ Demo for implementing clean architecture using Spring Boot.
 - Clone the git repository:
 
 ```
-git clone https://github.com/genorchiomento/spring-boot-clean-arch
+git clone https://github.com/genorchiomento/spring-boot-clean-arch.git
 ```
 
 - Build the project:
